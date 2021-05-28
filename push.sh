@@ -2,5 +2,5 @@
 
 git add .
 git status
-git commit -m "instan"
+git commit -m "instan commit"
 git push
