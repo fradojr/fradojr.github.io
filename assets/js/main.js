@@ -95,7 +95,7 @@
           })
           section.classList.add('section-show')
 
-        }, 350);
+        }, 30);
       } else {
         sections.forEach((item) => {
           item.classList.remove('section-show')
@@ -130,7 +130,7 @@
 
         setTimeout(function() {
           initial_nav.classList.add('section-show')
-        }, 350);
+        }, 30);
 
         scrollto(window.location.hash)
       }
